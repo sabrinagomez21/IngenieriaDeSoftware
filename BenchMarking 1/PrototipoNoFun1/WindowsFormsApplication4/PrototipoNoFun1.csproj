@@ -175,8 +175,17 @@
     <EmbeddedResource Include="frmAlumnos.resx">
       <DependentUpon>frmAlumnos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmAsignacion.resx">
+      <DependentUpon>frmAsignacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCertificado.resx">
+      <DependentUpon>frmCertificado.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMenuPrincipal.resx">
       <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReasignacion.resx">
+      <DependentUpon>frmReasignacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

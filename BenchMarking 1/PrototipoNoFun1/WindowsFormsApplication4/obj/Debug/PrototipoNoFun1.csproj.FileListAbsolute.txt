@@ -11,3 +11,5 @@ C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\Wi
 C:\Users\Josue\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
 C:\Users\Josue\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
 C:\Users\Josue\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\KevinDouglas\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\KevinDouglas\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

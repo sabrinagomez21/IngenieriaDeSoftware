@@ -184,17 +184,30 @@
     <EmbeddedResource Include="frmCertificado.resx">
       <DependentUpon>frmCertificado.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="frmEmpleado.resx">
       <DependentUpon>frmEmpleado.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="frmLaboratorios.resx">
+      <DependentUpon>frmLaboratorios.cs</DependentUpon>
+>>>>>>> Grupo1
     </EmbeddedResource>
     <EmbeddedResource Include="frmMenuPrincipal.resx">
       <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmNotasCatedraticos.resx">
+      <DependentUpon>frmNotasCatedraticos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmReasignacion.resx">
       <DependentUpon>frmReasignacion.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="frmSalones.resx">
       <DependentUpon>frmSalones.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="frmSedes.resx">
+      <DependentUpon>frmSedes.cs</DependentUpon>
+>>>>>>> Grupo1
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

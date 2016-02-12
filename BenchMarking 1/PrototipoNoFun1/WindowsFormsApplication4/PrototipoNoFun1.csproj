@@ -181,6 +181,12 @@
     <EmbeddedResource Include="frmCertificado.resx">
       <DependentUpon>frmCertificado.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmCursos.resx">
+      <DependentUpon>frmCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFamiliares.resx">
+      <DependentUpon>frmFamiliares.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLaboratorios.resx">
       <DependentUpon>frmLaboratorios.cs</DependentUpon>
     </EmbeddedResource>
@@ -189,6 +195,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmNotasCatedraticos.resx">
       <DependentUpon>frmNotasCatedraticos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParqueos.resx">
+      <DependentUpon>frmParqueos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmReasignacion.resx">
       <DependentUpon>frmReasignacion.cs</DependentUpon>

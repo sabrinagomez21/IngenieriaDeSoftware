@@ -1,0 +1,31 @@
+1) Pelos
+Empleados
+Cargos
+Salones
+
+2)  Diego
+Famililares
+Cursos
+Parqueos
+
+3)  Canche
+Notas Catedratico
+Laboratorios
+Sedes
+
+4) Josue
+Asignacion Ordinaria
+Reasignaciones
+Reporte Certificado
+
+5)  Chuqui
+Notas Alumnos
+Emision de recibos
+Reporte Talonario
+
+6) Melvin
+Solvencias
+Pensum
+Pago Empleados
+Reporte Pagos pendientes
+

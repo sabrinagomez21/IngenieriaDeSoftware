@@ -1,0 +1,15 @@
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\PrototipoNoFun1.csprojResolveAssemblyReference.cache
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.frmAlumnos.resources
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.frmMenuPrincipal.resources
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\PrototipoNoFun1.csproj.GenerateResource.Cache
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Josue\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Josue\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Josue\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Josue\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\DylanIsaac\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\DylanIsaac\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
